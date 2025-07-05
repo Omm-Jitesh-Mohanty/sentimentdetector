@@ -1,7 +1,7 @@
 # sentimentdetector
 This is a simple project which can detect sentiment. It can take a letter or word or phrase or sentence or paragraph as input then after analyzing it return out in percent on sentence rate as negative, neutral, positive and overall rate/type as output.
 
-This project is totally done in python. This is one of the GUI based project created using python Tkinter module which provides visibility structure to my project. I have also used vedarSentiment libray in it which do the main activity of my project. If you see the output you have an entry field, where you have to give your input. You can see the red coloured "check sentence" button. After giving input click on it. Now you are able to see that sentence rate in 3 fields as positive,negative and neutral it's percentage.Then at last field you will get the main output i.e the type of sentence. Is it positive,negative or neutral.
+This project is totally done in python. This is one of the GUI based project created using python Tkinter module which provides visibility structure to my project. I have also used vaderSentiment libray in it which do the main activity of my project. If you see the output you have an entry field, where you have to give your input. You can see the red coloured "check sentence" button. After giving input click on it. Now you are able to see that sentence rate in 3 fields as positive,negative and neutral it's percentage.Then at last field you will get the main output i.e the type of sentence. Is it positive,negative or neutral.
 This is the working procedure of my sentiment detector.I have writeen very simple code which is very small and easy to understand.
 
 <h1> USE CASES </h1>
