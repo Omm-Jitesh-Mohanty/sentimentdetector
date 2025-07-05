@@ -5,12 +5,12 @@ This project is totally done in python. This is one of the GUI based project cre
 This is the working procedure of my sentiment detector.I have writeen very simple code which is very small and easy to understand.
 
 <h1> USE CASES </h1>
-This sentiment analysis project is a technique which is used in the NLP(Natural Language Processing) part of AI(Artificial Intelligence).
-The main objective of sentiment detector is to detect the emotnal tone or sentiment behind the text data.
-The sentiment analysis involves analyzing text to determine weather it expresses positive,negative or neutral emotions.
-This can be use in customer feedback analysis to analize customer reviews and feedback to understand their opinions and sentiments.
-This can be use in product review analysis to analize product reviews to determine weather customers are satisfied or disatisfied with a product. 
-This can be use in social media monitoring to track social media conversations about a brand or topic to understand public sentiment.
+1. This sentiment analysis project is a technique which is used in the NLP(Natural Language Processing) part of AI(Artificial Intelligence).
+2. The main objective of sentiment detector is to detect the emotnal tone or sentiment behind the text data.
+3. The sentiment analysis involves analyzing text to determine weather it expresses positive,negative or neutral emotions.
+4. This can be use in customer feedback analysis to analize customer reviews and feedback to understand their opinions and sentiments.
+5. This can be use in product review analysis to analize product reviews to determine weather customers are satisfied or disatisfied with a product. 
+6. This can be use in social media monitoring to track social media conversations about a brand or topic to understand public sentiment.
 
 <h1> CHALLENGES </h1>
 Sentiment analysis can be challenging due to:
